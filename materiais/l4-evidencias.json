@@ -1,0 +1,66 @@
+{
+  "pares": [
+    {
+      "afirmacao": "O estudo prova causa.",
+      "passagem": "O estudo observou associação.",
+      "gabarito": "reescrever"
+    },
+    {
+      "afirmacao": "A devolução é em crédito.",
+      "passagem": "Crédito válido por 12 meses.",
+      "gabarito": "apoiada"
+    },
+    {
+      "afirmacao": "A reunião foi confirmada.",
+      "passagem": "Podemos marcar uma reunião?",
+      "gabarito": "insuficiente"
+    },
+    {
+      "afirmacao": "O serviço funciona offline.",
+      "passagem": "Conexão é obrigatória.",
+      "gabarito": "contradita"
+    },
+    {
+      "afirmacao": "A entrega foi concluída.",
+      "passagem": "O pedido foi enviado.",
+      "gabarito": "insuficiente"
+    },
+    {
+      "afirmacao": "O relatório foi retificado.",
+      "passagem": "Versão 2 corrige o total anterior.",
+      "gabarito": "apoiada"
+    },
+    {
+      "afirmacao": "Todos aprovaram.",
+      "passagem": "Duas pessoas aprovaram; falta a terceira.",
+      "gabarito": "contradita"
+    },
+    {
+      "afirmacao": "O acesso dura um ano.",
+      "passagem": "Acesso por 12 meses após ativação.",
+      "gabarito": "apoiada"
+    }
+  ],
+  "clausulas": [
+    {
+      "trecho": "A vigência é de 12 meses.",
+      "criterio": "cancelamento",
+      "gabarito": "ausente_no_trecho"
+    },
+    {
+      "trecho": "O cancelamento deve ser solicitado no painel.",
+      "criterio": "procedimento",
+      "gabarito": "presente"
+    },
+    {
+      "trecho": "Uma cláusula exige 10 dias de aviso e outra exige 30.",
+      "criterio": "aviso",
+      "gabarito": "ambiguo"
+    },
+    {
+      "trecho": "A mensalidade será paga no dia 5.",
+      "criterio": "data_pagamento",
+      "gabarito": "presente"
+    }
+  ]
+}

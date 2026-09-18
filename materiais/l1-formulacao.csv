@@ -1,0 +1,13 @@
+tipo_esperado,situacao,justificativa
+Regra,Somar o valor de três parcelas,Os valores já são numéricos; usar aritmética.
+Choice,Escolher a equipe principal,Alternativas nominais conhecidas.
+Noul,Há pedido explícito de estorno?,Pergunta binária.
+Score,Medir severidade por rubrica,Níveis ordenados descritos.
+Geração,Escrever uma explicação personalizada,Exige texto novo.
+Regra,Validar que o JSON tem o campo id,Contrato verificável.
+Choice,Selecionar ID de um botão entre candidatos,Conjunto fechado de IDs.
+Regra,Comparar duas datas normalizadas,Usar calendário e fuso em código.
+Noul,Há confirmação explícita de agendamento?,Binária; suficiência deve ser tratada.
+Score,Avaliar impacto com níveis sem/com alternativa,Escala com descrições.
+Choice,Classificar evidência em apoia/contradiz/insuficiente,Alternativas delimitadas.
+Geração,Redigir um roteiro de aula,Composição de texto.

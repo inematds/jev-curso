@@ -1,0 +1,62 @@
+[
+  {
+    "tarefa": "Corrigir teste Python",
+    "capacidade": "codigo",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Localizar documentação oficial",
+    "capacidade": "pesquisa",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Classificar pedido simples",
+    "capacidade": "classificacao",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Escrever resposta personalizada",
+    "capacidade": "geracao",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Somar parcelas",
+    "capacidade": "regra",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Excluir conta",
+    "capacidade": "autorizacao",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Calcular fuso de reunião",
+    "capacidade": "regra",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Comparar versões de contrato",
+    "capacidade": "revisao_especializada",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Localizar aula no catálogo",
+    "capacidade": "conteudo",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Resolver login",
+    "capacidade": "suporte",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Efetuar pagamento",
+    "capacidade": "autorizacao",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  },
+  {
+    "tarefa": "Pedido sem contexto",
+    "capacidade": "revisao",
+    "limite": "Sem ações externas; falhas escalam após tentativa limitada."
+  }
+]

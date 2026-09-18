@@ -1,0 +1,4 @@
+cenario,chamadas,tokens_por_chamada,preco_por_milhao_usd,custo_entrada_usd,observacao
+pequeno,1000,10000,0.042,0.42,Acrescentar revisão e infraestrutura
+medio,10000,10000,0.042,4.2,Acrescentar fallback
+grande,100000,2000,0.042,8.4,Preço consultado em 18/09/2026

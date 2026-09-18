@@ -1,0 +1,42 @@
+[
+  {
+    "pedido": "Baixar relatório",
+    "candidatos": {
+      "a": "Início",
+      "b": "Baixar relatório"
+    },
+    "gabarito": "b"
+  },
+  {
+    "pedido": "Baixar relatório",
+    "candidatos": {
+      "a": "Início",
+      "b": "Configurações"
+    },
+    "gabarito": "nenhum"
+  },
+  {
+    "pedido": "Abrir ajuda",
+    "candidatos": {
+      "a": "Ajuda",
+      "b": "Sair"
+    },
+    "gabarito": "a"
+  },
+  {
+    "pedido": "Baixar relatório",
+    "candidatos": {
+      "a": "Relatório 2024",
+      "b": "Relatório 2025"
+    },
+    "gabarito": "ambiguo"
+  },
+  {
+    "pedido": "Excluir conta",
+    "candidatos": {
+      "a": "Excluir conta",
+      "b": "Cancelar"
+    },
+    "gabarito": "revisao_por_permissao"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "politica": "A devolução será na forma original de pagamento.",
+    "gabarito": "dinheiro"
+  },
+  {
+    "id": 2,
+    "politica": "O cancelamento retorna como crédito por 12 meses.",
+    "gabarito": "credito"
+  },
+  {
+    "id": 3,
+    "politica": "Cancelamento permitido; consulte condições.",
+    "gabarito": "insuficiente"
+  },
+  {
+    "id": 4,
+    "politica": "A reserva não permite devolução após confirmação.",
+    "gabarito": "sem_devolucao"
+  },
+  {
+    "id": 5,
+    "politica": "Resumo diz dinheiro, cláusula específica diz crédito.",
+    "gabarito": "conflito"
+  },
+  {
+    "id": 6,
+    "politica": "Pagamento devolvido ao cartão em até 10 dias úteis.",
+    "gabarito": "dinheiro"
+  }
+]
