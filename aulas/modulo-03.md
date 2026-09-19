@@ -56,6 +56,10 @@ Uma política inicial pode produzir três resultados: sugerir, pedir mais inform
 
 A revisão humana tem custo e capacidade limitada. Meça quantos eventos ela recebe e quanto tempo leva. Se quase tudo vai para revisão, o ganho pode desaparecer. Se quase nada vai, investigue se os critérios ficaram permissivos. O equilíbrio se escolhe com evidência e com quem responde pela operação.
 
+### Aprofundamento da versão 1.2.0
+
+Repetir dez vezes uma entrada avalia estabilidade, não equivale a dez exemplos independentes. Um erro estável continua sendo erro. Use primeira repetição para qualidade e um indicador separado para variação; probabilidades fictícias servem só para estudar a política.
+
 ### Exemplo resolvido
 
 Sugerir suporte é reversível. Confirmar uma data pode exigir validação. Excluir uma conta exige um fluxo próprio de autorização, mesmo com confiança alta.

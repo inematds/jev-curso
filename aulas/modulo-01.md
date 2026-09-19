@@ -56,6 +56,10 @@ Também é necessário separar validade estrutural de validade semântica. Se as
 
 Ao ler um benchmark, procure a unidade de medida. Uma chamada pode responder várias perguntas. Acertar todas as perguntas de uma chamada é diferente de acertar a maioria das etiquetas. Procure dados reais, referência humana, distribuição por classe e custo completo. A postura útil é transformar uma promessa em uma hipótese que pode ser testada.
 
+### Aprofundamento da versão 1.2.0
+
+Audite uma demonstração separando entrada, julgamento, execução e evidência de efeito. Opções prontas podem resolver trabalho real; não demonstram geração arbitrária. Um jogo com estado textual não comprova visão nem autonomia física. Consulte o laboratório L12.
+
 ### Exemplo resolvido
 
 “200 vezes mais rápido” vira: “o fornecedor relatou esse ganho em determinados workflows; ainda vamos medir nosso atendimento em português”.

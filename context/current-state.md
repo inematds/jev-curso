@@ -1,5 +1,5 @@
 # Estado atual
 
-18/09/2026 · v1.1.0. Escritas 36 aulas autorais em conteudo/curso.json, exportadas em 12 módulos Markdown. Oito laboratórios com dados fictícios e gabaritos; projeto final e capa produzidos. Formato HTML aguarda escolha explícita do usuário entre v5 e v2. Originais recebidos não estão no Git.
+19/09/2026 · v1.2.0. 36 aulas em 12 módulos Markdown, enriquecidas com práticas de skills, código, evidências e avaliação de demos. Doze laboratórios autorais, vinte casos completos e projeto final. README aponta para modelos oficiais, limites e experimentos.
 
-Curso cadastrado no portal e PRO com destino GitHub/Markdown; pushes confirmados. Detalhes em `context/publicacao.md`.
+HTML continua pendente de escolha explícita entre v5 e v2. Transcrições e materiais recebidos não são publicados. Catálogo mantém o destino GitHub/Markdown. Publicação via git.

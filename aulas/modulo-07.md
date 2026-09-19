@@ -56,6 +56,10 @@ O catálogo de agentes deve informar capacidades, limites e entradas necessária
 
 Também precisamos evitar duplicatas. Se o roteador for chamado novamente por falha de rede, a mesma tarefa não pode gerar duas ações externas sem controle. Use identificadores de evento, registre a decisão e faça a execução respeitar idempotência. Essa proteção pertence à engenharia do sistema, não à promessa de consistência do modelo.
 
+### Aprofundamento da versão 1.2.0
+
+Seleção de skills é uma expansão concreta: compare catálogo completo, busca lexical e sugestão com opção nenhuma. Não remova instruções obrigatórias nem confunda economia de tokens com qualidade. O cookbook oficial mantém o catálogo do agente; uma redução de contexto é outra hipótese. Pratique no L9.
+
 ### Exemplo resolvido
 
 “Onde encontro a primeira aula de automações?” → agente de conteúdo. O acesso a materiais continua sujeito às permissões já existentes.

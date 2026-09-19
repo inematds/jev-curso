@@ -56,6 +56,10 @@ Divida a tarefa. Primeiro, identifique quais mensagens propõem ou confirmam a m
 
 Se houver duas confirmações incompatíveis, trate como conflito. Se faltar confirmação, preserve insuficiente. Uma interface útil mostra a passagem de evidência e permite abrir a mensagem original. A etiqueta “sexta” isolada é pouco auditável quando alguém precisa entender por que a agenda mudou.
 
+### Aprofundamento da versão 1.2.0
+
+Um pré-filtro deve preservar a passagem que contradiz a pergunta, não apenas a que a confirma. Guarde ID, origem e trecho. Escolher um valor entre candidatos extraídos evita redigitar números, mas não comprova que o candidato correto foi escolhido. Pratique no L11.
+
 ### Exemplo resolvido
 
 Segunda: previsto quinta. Terça: podemos mudar para sexta? Quarta: confirmado sexta. A confirmação mais recente é sexta.

@@ -56,6 +56,10 @@ Uma classificação deve apoiar-se na política e no documento fornecidos. “O 
 
 O erro mais importante pode ser o descarte indevido de algo relevante. Por isso, a avaliação deve observar falsos negativos e não apenas a proporção total de acertos. Uma fila que parece muito eficiente por arquivar quase tudo pode estar escondendo informação. A revisão deve incluir amostras dos itens arquivados, além dos alertas destacados.
 
+### Aprofundamento da versão 1.2.0
+
+No navegador, escolha por DOM, valide se o elemento ainda existe, execute a ação permitida e teste o efeito. Um campo preenchido pode usar dado já conhecido; não significa geração livre pelo Jev. Tempo de animação, tempo de inferência e sucesso final devem ser separados.
+
 ### Exemplo resolvido
 
 “O emissor retificou o demonstrativo” + política “retificações vão para revisão” → revisar. Sem ordem de compra ou venda.

@@ -56,6 +56,10 @@ Se decidir continuar, limite a primeira rota a uma ação reversível e acompanh
 
 O princípio que atravessa o curso é simples: interpretação probabilística funciona melhor dentro de software que conhece seus limites. Modelos ajudam a julgar; critérios e evidências permitem avaliar; código restringe a execução; pessoas assumem as decisões que exigem responsabilidade. Uma arquitetura bem definida vale mais do que uma promessa isolada de velocidade.
 
+### Aprofundamento da versão 1.2.0
+
+No projeto final, entregue um report.json e a análise dos erros, ou identifique claramente por que o resultado ainda é simulado. Defender coletar mais dados ou não adotar é uma conclusão válida. Qualidade, custo completo e cobertura devem sustentar a decisão.
+
 ### Exemplo resolvido
 
 Decisão possível: manter regras para casos exatos, observar Jev nos demais e exigir revisão até obter evidência suficiente em português.

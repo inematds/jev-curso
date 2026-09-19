@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2.0 — 2026-09-19
+
+- Enriquece os 12 módulos com auditoria de demos, skills, evidências, código e experimentos.
+- Acrescenta quatro laboratórios (L9–L12), gabaritos e vinte casos autorais.
+- Destaca modelos oficiais e documento público de exageros e dúvidas no README.
+
 ## v1.1.0 — 2026-09-18
 
 - 36 aulas autorais, 12 módulos Markdown e oito laboratórios.

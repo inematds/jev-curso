@@ -56,6 +56,10 @@ A saída pode cair entre níveis porque resulta de uma distribuição sobre eles
 
 Separe dimensões independentes. Urgência, impacto e tom emocional são coisas diferentes. Uma pessoa pode escrever com calma sobre um problema grave. Pergunte por dimensão e combine os resultados em uma regra explícita. Quando a empresa alterar a prioridade de cada fator, será possível mudar a regra sem esconder a mudança numa pergunta ampla.
 
+### Aprofundamento da versão 1.2.0
+
+No laboratório ampliado, edite Choice, Noul e Score e faça várias perguntas ao mesmo contexto. Score usa de dois a dez níveis textuais neste projeto e retorna legend; Noul não retorna confidence separado. Critérios editados invalidam a resposta simulada anterior.
+
 ### Exemplo resolvido
 
 Níveis: 0 = sem bloqueio; 1 = bloqueio com alternativa; 2 = bloqueio sem alternativa. Um tom cordial não impede nível 2.

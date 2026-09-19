@@ -56,6 +56,10 @@ Prefira um caso com alternativas claras, dados disponíveis, frequência suficie
 
 A matriz de prioridade pode combinar volume, tempo humano por caso, facilidade de obter referência e impacto do erro. Não use a matriz como matemática exata: ela torna o debate visível. Um caso chamativo de navegador ou agentes pode vir depois de uma triagem simples que prove o valor e revele as limitações do domínio.
 
+### Aprofundamento da versão 1.2.0
+
+O custo de uma chamada não mede o fluxo. Na calculadora ampliada, inclua porcentagem de fallback, preço por tentativa do LLM, minutos de revisão e infraestrutura. Um custo desconhecido após falha ou retry não deve ser lançado como zero.
+
 ### Exemplo resolvido
 
 Piloto recomendado: sugerir suporte, cobrança ou vendas em tickets. Fase inicial: apenas observar a sugestão e comparar com o encaminhamento humano.

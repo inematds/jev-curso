@@ -56,6 +56,10 @@ Trate suficiência como parte do produto. Uma opção insuficiente pode levar a 
 
 Dados ausentes também podem surgir na preparação. Uma transcrição truncada, um anexo ignorado ou uma busca que recuperou o trecho errado mudam o que o modelo consegue decidir. Ao investigar erros, compare a fonte com o estado efetivamente enviado. Às vezes a menor correção está no extrator, não na pergunta.
 
+### Aprofundamento da versão 1.2.0
+
+Separe assunto e intenção: “Wi-Fi” pode aparecer em um pedido para consultar um chamado existente. Para pedidos de vendas e agendamento juntos, use duas etiquetas e avalie se falta confirmação de horário. O texto transcrito pode perder uma negação; revise casos de fronteira.
+
 ### Exemplo resolvido
 
 “Confirmado!” sem contexto → insuficiente. “Confirmo nossa reunião de sexta às 14h” → evidência explícita, ainda sujeita à validação da data e do fuso.

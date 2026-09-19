@@ -1,0 +1,59 @@
+{
+  "tema": "Escolher skill ou abster-se",
+  "catalogo": {
+    "criar_deck": "Há um roteiro para uma apresentação nova.",
+    "editar_deck": "Existe uma apresentação a modificar.",
+    "nenhum": "Nenhuma atende ao pedido."
+  },
+  "itens": [
+    {
+      "id": "s01",
+      "pedido": "Crie slides novos a partir deste roteiro.",
+      "esperado": "criar_deck",
+      "criterio": "Escolher a ação pedida, não apenas o assunto. Pedidos explicativos não exigem execução."
+    },
+    {
+      "id": "s02",
+      "pedido": "Mude as cores da apresentação já existente.",
+      "esperado": "editar_deck",
+      "criterio": "Escolher a ação pedida, não apenas o assunto. Pedidos explicativos não exigem execução."
+    },
+    {
+      "id": "s03",
+      "pedido": "Como funciona um slide mestre? Quero apenas uma explicação.",
+      "esperado": "nenhum",
+      "criterio": "Escolher a ação pedida, não apenas o assunto. Pedidos explicativos não exigem execução."
+    },
+    {
+      "id": "s04",
+      "pedido": "Preciso escrever um e-mail.",
+      "esperado": "nenhum",
+      "criterio": "Escolher a ação pedida, não apenas o assunto. Pedidos explicativos não exigem execução."
+    },
+    {
+      "id": "s05",
+      "pedido": "Atualize o título do slide 3 deste arquivo.",
+      "esperado": "editar_deck",
+      "criterio": "Escolher a ação pedida, não apenas o assunto. Pedidos explicativos não exigem execução."
+    },
+    {
+      "id": "s06",
+      "pedido": "Monte a primeira apresentação deste curso usando minhas anotações.",
+      "esperado": "criar_deck",
+      "criterio": "Escolher a ação pedida, não apenas o assunto. Pedidos explicativos não exigem execução."
+    },
+    {
+      "id": "s07",
+      "pedido": "Não altere nada; só explique a diferença entre slide e página.",
+      "esperado": "nenhum",
+      "criterio": "Escolher a ação pedida, não apenas o assunto. Pedidos explicativos não exigem execução."
+    },
+    {
+      "id": "s08",
+      "pedido": "Transforme este roteiro em uma apresentação inédita.",
+      "esperado": "criar_deck",
+      "criterio": "Escolher a ação pedida, não apenas o assunto. Pedidos explicativos não exigem execução."
+    }
+  ],
+  "origem": "Material fictício autoral; não mede Jev."
+}

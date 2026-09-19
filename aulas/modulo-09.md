@@ -56,6 +56,10 @@ Use um número máximo de tentativas e um prazo global. Se o provedor pedir espe
 
 Uma falha não deve produzir uma etiqueta inventada. Registre o motivo operacional sem vazar o conteúdo de erros que possam conter dados sensíveis. Separe falha do provedor de baixa confiança numa resposta válida: as duas podem terminar em revisão, mas precisam de diagnósticos diferentes. Nenhuma delas autoriza repetir ações externas.
 
+### Aprofundamento da versão 1.2.0
+
+O contrato do laboratório é deliberadamente pequeno: descrições textuais, até 30 perguntas e limite de 100 KB. Esses dois últimos valores são locais. Valide a distribuição, a alternativa e a legend de Score. Não copie um máximo alegado numa demo sem conferir a documentação.
+
 ### Exemplo resolvido
 
 HTTP 401 → corrigir autenticação, sem retry automático. HTTP 429 → backoff limitado, respeitando Retry-After e o prazo global.

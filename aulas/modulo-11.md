@@ -56,6 +56,10 @@ Antes de trocar a versão em operação, rode o conjunto de avaliação e compar
 
 Tenha uma forma simples de desativar a nova etapa e voltar ao fluxo anterior. O retorno não deve exigir reconstruir a aplicação. Critérios de suspensão incluem erro relevante, indisponibilidade persistente e custo inesperado. Atualizar é uma mudança controlada, não apenas substituir um nome na configuração.
 
+### Aprofundamento da versão 1.2.0
+
+Para triagem de código, separe comentário correto de comentário útil. O classificador pode apontar um teste enfraquecido, mas testes e análise estática continuam necessários. Amostre também o que o filtro descartou para descobrir falsos negativos. Pratique no L10.
+
 ### Exemplo resolvido
 
 Nova versão chega: avaliar com as mesmas perguntas e dados reservados; revisar métricas por classe; liberar gradualmente ou manter a versão anterior.

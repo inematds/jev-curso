@@ -1,0 +1,42 @@
+{
+  "tema": "Separar exatidão, utilidade e evidência de teste",
+  "itens": [
+    {
+      "codigo": "# duplica\nreturn x * 2",
+      "correcao": "correto",
+      "utilidade": "baixa",
+      "motivo": "Repete a operação evidente."
+    },
+    {
+      "codigo": "# mantém valor positivo\nreturn -abs(x)",
+      "correcao": "contradiz",
+      "utilidade": "revisar",
+      "motivo": "A operação produz valor não positivo."
+    },
+    {
+      "codigo": "# Espera um tick para o elemento ser montado antes de medir.\nawait next_tick()",
+      "correcao": "depende do contexto",
+      "utilidade": "potencialmente alta",
+      "motivo": "Explica intenção; confirmar API e contexto."
+    },
+    {
+      "codigo": "# Esta chamada nunca falha.\nreturn client.get(url)",
+      "correcao": "não demonstrada",
+      "utilidade": "revisar",
+      "motivo": "É necessária evidência do contrato de erro."
+    },
+    {
+      "antes": "assert status == 403",
+      "depois": "assert status in (200, 403)",
+      "esperado": "teste enfraquecido",
+      "motivo": "Passou a aceitar acesso bem-sucedido onde bloqueio era exigido."
+    },
+    {
+      "antes": "assert total == 20",
+      "depois": "assert total == 20.0",
+      "esperado": "insuficiente para acusar defeito",
+      "motivo": "A mudança textual não demonstra mudança semântica; examinar linguagem/tipo."
+    }
+  ],
+  "origem": "Material fictício autoral; não mede Jev."
+}

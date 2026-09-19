@@ -56,6 +56,10 @@ Escolha o limiar no conjunto de calibração e congele antes do teste. Registre 
 
 A incerteza da medição importa. Se dez exemplos passaram sem erro, ainda não temos prova de que a taxa de erro seja pequena. Quanto mais estreita a meta, maior tende a ser a necessidade de dados. Quando a amostra é insuficiente, a conclusão correta pode ser coletar mais exemplos, em vez de declarar sucesso.
 
+### Aprofundamento da versão 1.2.0
+
+A CLI experiment registra dataset, template, política, modelo, falhas e procedência. O modo replay permite comparar respostas externas, incluindo LLM, mas não autentica a origem declarada. Uma comparação de modelo isolado deve ter entrada equivalente; uma comparação de fluxo mede a tarefa inteira.
+
 ### Exemplo resolvido
 
 No laboratório didático, varie confidence de 0,90 para 0,95. A resposta fictícia com confidence 0,91 passa de sugestão para revisão.

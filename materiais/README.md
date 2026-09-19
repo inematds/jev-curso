@@ -26,3 +26,16 @@ O erro com confidence 0,97 permanece aceito nos dois. Aumentar o limiar não eli
 ## Entrega final
 
 Preencha o [modelo de projeto](projeto-final.md). Aprovação sugerida: 75/100 na rubrica, sem apresentar simulação como medição nem atribuir permissões ao modelo. A nota é uma autoavaliação educacional, não uma certificação de segurança operacional.
+
+## Aprofundamento — L9 a L12
+
+Todos incluem situações fictícias e gabaritos.
+
+| Laboratório | Material | Entrega |
+|---|---|---|
+| L9 — Skills | [Oito pedidos](l9-skills.json) | Selecionar uma skill ou nenhuma; justificar pela intenção. |
+| L10 — Código | [Seis situações](l10-comentarios-diff.json) | Separar correção, utilidade e evidência de teste. |
+| L11 — Evidências | [Seis passagens](l11-evidencias.json) | Preservar contradições, negações e IDs. |
+| L12 — Demos | [Oito alegações](l12-auditoria-demos.json) | Dar veredito e listar a evidência ainda necessária. |
+
+[Vinte casos da aplicação](vinte-casos.json) incluem as três primitivas e perguntas combinadas. O arquivo anterior com dez casos permanece como material inicial. Para prática técnica, use o [guia de experimentos](https://github.com/inematds/jev/blob/main/docs/08-experimentos.md).

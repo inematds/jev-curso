@@ -1,10 +1,10 @@
 # Jev na prática
 
-**v1.1.0** · Curso autoral em português: **3 trilhas, 12 módulos, 36 aulas e oito laboratórios**.
+**v1.2.0** · Curso autoral em português: **3 trilhas, 12 módulos, 36 aulas e 12 laboratórios**.
 
 As aulas e materiais estão disponíveis abaixo em Markdown. A publicação em HTML aguarda a escolha do formato visual v5 ou v2. Nenhum dado recebido para análise é publicado.
 
-[Aplicação e guia](https://inematds.github.io/jev/guia/) · [Laboratório de dez casos](https://inematds.github.io/jev/app/)
+[Aplicação e guia](https://inematds.github.io/jev/guia/) · [Laboratório de 20 casos](https://inematds.github.io/jev/app/)
 
 ## Comece por aqui
 
@@ -51,6 +51,8 @@ Leia a situação, resolva o exercício antes de abrir a resposta e anote onde f
 ## Limites e referências
 
 Curso educacional independente. Casos clínicos, jurídicos e financeiros são fictícios e supervisionados. Não há diagnóstico, aprovação contratual ou transação automática. A tarifa usada nos exercícios foi consultada em 18/09/2026; confira atualizações na [documentação TypeSafe](https://docs.typesafe.ai/models).
+
+[Exageros e dúvidas — análise técnica](https://github.com/inematds/jev/blob/main/docs/07-exageros-e-duvidas.md) · [Modelos, preços e limites oficiais](https://docs.typesafe.ai/models) · [Experimentos reproduzíveis](https://github.com/inematds/jev/blob/main/docs/08-experimentos.md)
 
 ## Manutenção
 

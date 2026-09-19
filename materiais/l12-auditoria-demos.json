@@ -1,0 +1,46 @@
+{
+  "tema": "Separar capacidade, demonstração e evidência",
+  "itens": [
+    {
+      "alegacao": "Jev escolheu o botão pelo DOM.",
+      "veredito": "plausível com condições",
+      "evidencia_necessaria": "Estado textual, IDs, resposta e verificação do clique."
+    },
+    {
+      "alegacao": "Escolheu um componente pronto, portanto gerou qualquer interface.",
+      "veredito": "extrapolação",
+      "evidencia_necessaria": "Explicitar o catálogo e os limites de composição."
+    },
+    {
+      "alegacao": "Resposta de alta confiança nunca erra.",
+      "veredito": "incorreta",
+      "evidencia_necessaria": "Avaliação por classe e calibração independente."
+    },
+    {
+      "alegacao": "Uma partida ganha prova superioridade em jogos.",
+      "veredito": "não comprovada",
+      "evidencia_necessaria": "Múltiplas partidas, condições iguais e qualidade além do tempo."
+    },
+    {
+      "alegacao": "Removemos contexto e a resposta continuou correta neste exemplo.",
+      "veredito": "observação limitada",
+      "evidencia_necessaria": "Amostra independente e recall de evidências necessárias."
+    },
+    {
+      "alegacao": "Output grátis torna o fluxo gratuito.",
+      "veredito": "incorreta",
+      "evidencia_necessaria": "Entrada, tentativas, infraestrutura e revisão."
+    },
+    {
+      "alegacao": "Simulador de drone demonstra voo físico seguro.",
+      "veredito": "não comprovada",
+      "evidencia_necessaria": "Validação física separada, sensores e controle."
+    },
+    {
+      "alegacao": "Um milhão de linhas nunca pode ser classificado.",
+      "veredito": "generalização indevida",
+      "evidencia_necessaria": "Orçamento, lotes, índice, cache e latência aceitável."
+    }
+  ],
+  "origem": "Material fictício autoral; não mede Jev."
+}

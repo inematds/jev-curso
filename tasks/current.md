@@ -1,7 +1,7 @@
 # Trabalho atual
 
-- [x] 36 aulas com teoria, exemplos, exercícios e respostas.
-- [x] Oito laboratórios com arquivos e gabaritos.
+- [x] 36 aulas com teoria, exemplos, exercícios e respostas; aprofundamentos de validação adicionados.
+- [x] Doze laboratórios com arquivos e gabaritos.
 - [x] Projeto final e rubrica.
 - [x] Capa gerada no padrão INEMA com flux2-klein.
 - [ ] Escolha do usuário: formato-curso-v5 ou formato-curso-v2.
